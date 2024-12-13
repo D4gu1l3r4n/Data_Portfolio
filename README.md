@@ -5,6 +5,6 @@ This portfolio is separated into the various projects and competence I have work
 Each project contains a **README file** planning file, a Markdown *(For R projects)* or Jupyther Notebook *(For Python projects)* where the analyses were performed and a summary file summarising the findings. 
 Some projects may contain additional files such as visualisation files, models and others.
 
-Feel free to explore each section of the projects!!!
+**Feel free to explore each section of the projects!!!**
 
 
