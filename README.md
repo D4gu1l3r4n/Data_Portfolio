@@ -1,8 +1,10 @@
 # Data_Portfolio
-Welcome. Here are some of my works as Data Scientist/Analysis.
-This portfolio are separated in the diverse Projects and competition I worked on. 
-Every project contains a planification file, a Markdown or Jupyther Notebook were the analysis were performed and a Resume file.
-Some projects might contain additional files like visualization files.
+Welcome to my portfolio. 
+This repository functions as a portfolio containing some of my work as a Data Scientist/Analyst. 
+This portfolio is separated into the various projects and competence I have worked on. 
+Each project contains a planning file, a Markdown or Jupyther Notebook where the analyses were performed and a summary file summarising the findings. 
+Some projects may contain additional files such as visualisation files, models and others.
 
-Feel free to explore every section. 
+Feel free to explore each section of the projects!!!
+
 
