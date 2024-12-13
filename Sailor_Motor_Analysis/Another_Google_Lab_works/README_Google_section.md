@@ -1,13 +1,13 @@
 # Google Projects
 In this section I present various stages of three different internship projects carried out during the certificate internship:
 **Google Advanced Data Analytics Specialization**.
-The works according to the project they belong to. 
+The works according to differents projects. 
 
 ### Automatidata
 This internship project is about a fictitious company in charge of a taxi company in New York City.
 The project aims to develop a model to help predict and optimize fares for upcoming trips.
 
-### Waze.Inc
+### Waze. Inc
 In this project with Google Inc and Waze for educational purposes. 
 The Waze analytics team seeks to analyse and understand why users abandon the app on a monthly basis.
 
